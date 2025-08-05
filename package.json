@@ -1,0 +1,23 @@
+{
+  "name": "simple-chat-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-ankit23/Simple-Chat-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-ankit23/Simple-Chat-App/issues"
+  },
+  "homepage": "https://github.com/dev-ankit23/Simple-Chat-App#readme",
+  "description": "",
+  "dependencies": {
+    "@types/ws": "^8.18.1",
+    "typescript": "^5.9.2",
+    "ws": "^8.18.3"
+  }
+}
